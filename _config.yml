@@ -4,39 +4,39 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            jamchamb's jekyll
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://camporez.com
+url:              https://jamchamb.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           James Chambers
+  url:            https://facebook.com/raketemensch
 
 paginate:         5
 
 # Custom vars
 icon:             /assets/images/icon.png
-cover:            /assets/images/cover.jpg
+cover:            /assets/images/alley_2.jpg
 
 social:
-  - icon:         twitter
-    url:          https://twitter.com/iancamporez
-    desc:         Follow me on twitter
+#  - icon:         twitter
+#    url:          https://twitter.com/iancamporez
+#    desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
-    desc:         Fork me on github
+    url:          https://github.com/jamchamb
+    desc:         GitHub profile
 
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
+  - icon:         facebook
+    url:          https://facebook.com/raketemensch
     desc:         Add me on google+
 
   - icon:         feed
-    url:          http://camporez.com/atom.xml
+    url:          https://jamchamb.github.io/atom.xml
     desc:         Subscribe to my feed
 
 menu:
@@ -47,12 +47,12 @@ menu:
     url:          /about
 
 copyright:
-  author:         Camporez
-  url:            http://camporez.com
-  type_title:     Some rights reserved
+  author:         James Chambers
+  url:            https://jamchamb.github.io
+  type_title:     CC BY-NC 2.5
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
-parallax:         false
+parallax:         true
 
 # Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
 google_analytics:  
