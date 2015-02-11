@@ -29,11 +29,15 @@ social:
 
   - icon:         github
     url:          https://github.com/jamchamb
-    desc:         GitHub profile
+    desc:         My GitHub profile
 
   - icon:         facebook
     url:          https://facebook.com/raketemensch
-    desc:         Add me on google+
+    desc:         Add me on Facebook
+
+  - icon:         linkedin
+    url:          https://linkedin.com/in/jamchamb
+    desc:         LinkedIn
 
   - icon:         feed
     url:          https://jamchamb.github.io/atom.xml
