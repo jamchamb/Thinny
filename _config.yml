@@ -4,7 +4,7 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            jamchamb's jekyll
+title:            James Chambers
 tagline:          'blog'
 description:      'My personal blog.'
 url:              https://jamchamb.github.io
@@ -31,9 +31,9 @@ social:
     url:          https://github.com/jamchamb
     desc:         My GitHub profile
 
-  - icon:         facebook
-    url:          https://facebook.com/raketemensch
-    desc:         Add me on Facebook
+  - icon:         twitter
+    url:          https://twitter.com/jamchambru
+    desc:         Twitter
 
   - icon:         linkedin
     url:          https://linkedin.com/in/jamchamb
