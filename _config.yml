@@ -9,8 +9,8 @@ tagline:          'blog'
 description:      'My personal blog.'
 url:              https://jamchamb.github.io
 baseurl:          
-commentsystem:    google
-disqus:           example
+commentsystem:    disqus
+disqus:           jamchamb
 
 author:
   name:           James Chambers
