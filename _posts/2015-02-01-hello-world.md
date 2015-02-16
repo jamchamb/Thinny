@@ -4,7 +4,7 @@ title: "Hello World"
 quote: "Setting up Jekyll blog"
 image: false
 video: false
-comments: true
+comments: false
 ---
 
 Hello world
