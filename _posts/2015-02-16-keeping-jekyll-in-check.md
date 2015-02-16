@@ -2,7 +2,7 @@
 layout: post
 title: "Keeping Jekyll in check"
 quote: "How to build a GitHub Pages blog on top of a theme from a repo and keep it all under version control"
-comments: true
+comments: false
 image:
     url: /media/2015-02-16-keeping-jekyll-in-check/cover.jpg
 ---
@@ -30,13 +30,15 @@ Though, it can be made easier with a simple script, such as:
 
 {% highlight bash %}
 #!/bin/bash
-cd ~/Documents/GitHub/thinny/
+cd ~/Documents/GitHub/some_theme/
 git checkout my-site
 rm -r ~/Documents/GitHub/jamchamb.github.io/*
-cp -r ~/Documents/GitHub/thinny/* ~/Documents/GitHub/jamchamb.github.io/
+cp -r ~/Documents/GitHub/some_theme/* ~/Documents/GitHub/jamchamb.github.io/
 cd ~/Documents/GitHub/jamchamb.github.io/
 git status
 {% endhighlight %}
+
+Note that the `rm` line should not affect the `.git` directory in `~/Documents/GitHub/jamchamb.github.io/`.
 
 ### Workflow
 
