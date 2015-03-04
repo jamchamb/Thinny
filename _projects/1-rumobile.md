@@ -2,6 +2,7 @@
 title: RU Mobile - Android Client
 github: https://github.com/rutgersmobile/android-client
 website: http://oss.rutgers.edu/mobile/
+thumbnail: /media/projects/rumobile_thumb.png
 links:
   - website:
     title: Website

@@ -542,3 +542,22 @@ pre code {
 	margin-top: 60px;
 	border-top: 1px solid #EEE;
 }
+
+td.projtable {
+    border: none;
+    background-color: #FFFFFF;
+    vertical-align: top;
+    font-family: Fenix, Georgia, "Times New Roman", serif;
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-size: 20px;
+    color: #313131;
+    line-height: 1.5;
+    position: relative;
+    padding: 0em;
+    padding-right: 1em;
+}
+
+tbody tr:nth-child(odd) td.projtable, tbody tr:nth-child(odd) th.projtable {
+	background-color: #FFFFFF;
+}
