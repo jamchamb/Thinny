@@ -50,6 +50,9 @@ menu:
   - title:        About
     url:          /about
 
+  - title:	  Projects
+    url:	  /projects
+
 copyright:
   author:         James Chambers
   url:            https://plus.google.com/117340791617653200719/?rel=author
@@ -57,6 +60,9 @@ copyright:
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
 parallax:         true
+
+collections:
+  - projects
 
 # Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
 google_analytics:  UA-59558217-1
