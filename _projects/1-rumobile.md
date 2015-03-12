@@ -1,5 +1,5 @@
 ---
-title: RU Mobile - Android Client
+title: Rutgers Mobile - Android Client
 github: https://github.com/rutgersmobile/android-client
 website: http://oss.rutgers.edu/mobile/
 thumbnail: /media/projects/rumobile_thumb.png
@@ -11,4 +11,4 @@ links:
     title: GitHub
     url: https://github.com/rutgersmobile/android-client
 ---
-Official Rutgers Mobile app for Android.
+Official Rutgers University mobile app for Android.
