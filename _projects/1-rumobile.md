@@ -6,7 +6,7 @@ thumbnail: /media/projects/rumobile_thumb.png
 links:
   - website:
     title: Website
-    url: http://oss.rutgers.edu/mobile/
+    url: https://rutgersmobile.github.io/android-client
   - github:
     title: GitHub
     url: https://github.com/rutgersmobile/android-client
