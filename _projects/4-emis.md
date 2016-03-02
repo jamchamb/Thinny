@@ -3,7 +3,7 @@ title: EMIS
 thumbnail: /media/projects/emis_thumb.png
 links:
   - title: Website
-    url: http://spacey-sounds.azurewebsites.net
+    url: http://spoop.me/spacey-sounds
   - title: GitHub
     url: https://github.com/spaceappsnyc/spacey-sounds
 ---
